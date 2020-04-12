@@ -1,0 +1,26 @@
+{
+  "name": "Cisco CCNA",
+  "author": "Sam Thomas",
+  "version": 1,
+  "date_created": "04042020",
+  "items": [
+    {
+      "question": "What is the command to show ip interfaces",
+      "level": 1,
+      "short_answer": "sh ip int br",
+      "full_answer": "show ip interface brief"
+    },
+    {
+      "question": "What is the command to debug EIGRP",
+      "level": 1,
+      "short_answer": "debu eig pac",
+      "full_answer": "debug eigrp packet"
+    },
+    {
+      "question": "What is the command to connect to an interface",
+      "level": 2,
+      "short_answer": "int",
+      "full_answer": "interface"
+    }
+  ]
+}
